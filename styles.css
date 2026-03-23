@@ -11,25 +11,37 @@
 
 /* Task 1: Write a CLASS rule called "pink-bg"
    It should change the background color to pink */
-
+.pink-bg{
+   background-color: pink;
+}
 
 /* Task 2: Write a CLASS rule called "blue-text"
    It should change the text color to blue */
-
+.blue-text{
+   color:blue;
+}
 
 /* Task 3: Write a CLASS rule called "big-border"
    It should add a border — use: 3px solid black */
-
+.big-border{
+   border: 3px solid black
+}
 
 /* Task 4: Write an ID rule called "main-title"
    It should change the background color to navy
    and the text color to white */
-
+#main-title{
+   background-color: blue;
+   color: white;
+}
 
 /* Task 5: Write an ID rule called "footer-text"
    It should change the text color to gray
    and the background color to black */
-
+#footer-text{
+   background-color: black;
+   color: grey;
+}
 
 /* ─────────────────────────────────────────────
    PART 2 — Semi Guided
@@ -41,13 +53,21 @@
    ───────────────────────────────────────────── */
 
 /* Task 6: Write a CLASS rule called "highlight" */
-
-
+.highlight{
+   background-color: aliceblue;
+   color: olive;
+}
 /* Task 7: Write a CLASS rule called "list-style" */
-
+.list-style{
+   background-color: azure;
+   color: fuchsia;
+}
 
 /* Task 8: Write an ID rule called "page-heading" */
-
+.page-heading{
+   background-color: chartreuse;
+   color: darkgreen;
+}
 
 /* ─────────────────────────────────────────────
    PART 3 — Open Ended
@@ -56,9 +76,16 @@
    ───────────────────────────────────────────── */
 
 /* Your class rule 1 */
-
+.namehere{
+   text-align: center;
+}
 
 /* Your class rule 2 */
-
+.youradvisory{
+   color: darkcyan;
+}
 
 /* Your ID rule */
+#maintopic{
+   background-image: none;
+}
